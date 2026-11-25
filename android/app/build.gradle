@@ -7,7 +7,7 @@ android {
         applicationId "com.montessorilifeskills.app"
         minSdkVersion 24
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 115
+        versionCode 116
         versionName "1.1.4"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         aaptOptions {
