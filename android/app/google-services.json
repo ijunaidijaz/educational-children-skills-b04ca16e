@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524966870527",
+    "project_id": "kerry-s-project",
+    "storage_bucket": "kerry-s-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524966870527:android:58e244f9ef9c336fbebbca",
+        "android_client_info": {
+          "package_name": "com.montessorilifeskills.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw2bbINKDAdBN3dk4YoLSeoDjLMSJybjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
